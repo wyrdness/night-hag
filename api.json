@@ -1,0 +1,347 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/night-hag",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "night-hag",
+    "name": "Night Hag",
+    "aliases": [
+      {
+        "name": "Old Hag",
+        "region": "Newfoundland",
+        "meaning": "Traditional name for sleep paralysis entity"
+      },
+      {
+        "name": "Mara",
+        "language": "Germanic/Slavic",
+        "region": "Europe",
+        "meaning": "Nightmare spirit"
+      },
+      {
+        "name": "Nightmare",
+        "language": "English",
+        "meaning": "Original supernatural entity meaning"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Sleep Paralysis Demon",
+    "tags": [
+      "sleep-paralysis",
+      "supernatural-entity",
+      "cross-cultural",
+      "medical-phenomenon",
+      "spirit",
+      "nightmare",
+      "universal-experience"
+    ],
+    "status": "explained",
+    "description": {
+      "summary": "Supernatural entity believed to cause sleep paralysis across cultures. Described as an old hag or malevolent presence that sits on the sleeper's chest, preventing movement and speech during sleep.",
+      "full": "The Night Hag is a supernatural entity reported across nearly every human culture, believed to cause the phenomenon of sleep paralysis. Victims awaken but find themselves unable to move or speak, often experiencing a crushing pressure on the chest, difficulty breathing, and an overwhelming sense of dread or malevolent presence. Modern science identifies this as sleep paralysis—a well-documented medical condition occurring during transitions between sleep stages where REM atonia persists into waking consciousness. Despite the scientific explanation, the remarkable consistency of cultural interpretations worldwide makes the Night Hag a fascinating intersection of physiology, psychology, and folklore."
+    },
+    "etymology": {
+      "origin": "The term 'Night Hag' refers to the traditional image of an old witch or crone that visits sleepers at night.",
+      "meaning": "A malevolent female spirit that oppresses sleepers",
+      "cultural_variations": "Nearly universal across cultures with local variations"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Sleep Paralysis Entity",
+      "subtype": "Nocturnal Oppressor",
+      "variant": "Cross-cultural"
+    },
+    "related_phenomena": [
+      {
+        "id": "mara",
+        "name": "Mara",
+        "relationship": "cultural_variant",
+        "description": "Germanic/Slavic nightmare spirit"
+      },
+      {
+        "id": "alp",
+        "name": "Alp",
+        "relationship": "cultural_variant",
+        "description": "German male nightmare spirit"
+      },
+      {
+        "id": "mare",
+        "name": "Mare",
+        "relationship": "cultural_variant",
+        "description": "Generic European nightmare spirit"
+      },
+      {
+        "id": "succubus-incubus",
+        "name": "Succubus/Incubus",
+        "relationship": "related",
+        "description": "Sexual demons associated with sleep paralysis"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": [
+        {
+          "feature": "Form",
+          "description": "Often described as an old woman or hag, though appearance varies",
+          "frequency": "common"
+        },
+        {
+          "feature": "Weight",
+          "description": "Feels extremely heavy when sitting on chest",
+          "frequency": "always"
+        },
+        {
+          "feature": "Presence",
+          "description": "Sense of malevolent entity in room, often unseen",
+          "frequency": "always"
+        },
+        {
+          "feature": "Shadow",
+          "description": "May appear as dark shadow or silhouette",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Manifestation varies by culture but consistently associated with oppressive weight and malevolent presence"
+    },
+    "abilities": [
+      {
+        "ability": "Paralysis induction",
+        "description": "Renders victim completely immobile",
+        "frequency": "always",
+        "evidence_level": "documented"
+      },
+      {
+        "ability": "Chest oppression",
+        "description": "Creates sensation of crushing weight on chest",
+        "frequency": "always",
+        "evidence_level": "documented"
+      },
+      {
+        "ability": "Speech prevention",
+        "description": "Victim cannot speak or call for help",
+        "frequency": "always",
+        "evidence_level": "documented"
+      },
+      {
+        "ability": "Terror induction",
+        "description": "Causes overwhelming fear and dread",
+        "frequency": "common",
+        "evidence_level": "documented"
+      },
+      {
+        "ability": "Hallucination creation",
+        "description": "Causes vivid sensory hallucinations",
+        "frequency": "common",
+        "evidence_level": "documented"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "malevolent",
+      "attack_pattern": "Visits during sleep transitions, particularly during REM sleep",
+      "symptoms": [
+        "Complete paralysis",
+        "Chest pressure and difficulty breathing",
+        "Inability to speak",
+        "Sense of malevolent presence",
+        "Visual and auditory hallucinations",
+        "Overwhelming terror",
+        "Awareness while unable to respond"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Universal human experience reported across all cultures and geographic locations",
+      "continents": ["All"],
+      "cultural_universality": "Nearly every culture has some version of the Night Hag entity"
+    },
+    "cultural_variations": [
+      {
+        "name": "Old Hag",
+        "region": "Newfoundland, Canada",
+        "description": "Traditional term for sleep paralysis experience"
+      },
+      {
+        "name": "Mara",
+        "region": "Germanic/Slavic Europe",
+        "description": "Female nightmare spirit, root of 'nightmare'"
+      },
+      {
+        "name": "Alp",
+        "region": "Germany/Austria",
+        "description": "Male nightmare demon"
+      },
+      {
+        "name": "Kanashibari",
+        "region": "Japan",
+        "description": "Bound by metal"
+      },
+      {
+        "name": "Boo Hag",
+        "region": "Gullah culture, South Carolina",
+        "description": "Witch that rides sleepers"
+      }
+    ]
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Sleep paralysis has been documented throughout human history across all cultures. Universal human physiology creates consistent experience interpreted through cultural lens.",
+      "earliest_accounts": "Ancient civilizations including Mesopotamia, Egypt, Greece, and Rome documented similar experiences",
+      "folklore_connections": "Connected to worldwide witch, demon, and spirit traditions"
+    },
+    "timeline": [
+      {
+        "date": "Ancient",
+        "event": "First cultural interpretations",
+        "significance": "Sleep paralysis recognized and attributed to supernatural entities",
+        "source": "Ancient texts from multiple cultures"
+      },
+      {
+        "date": "1664",
+        "event": "Dutch physician Isbrand van Diemerbroeck",
+        "significance": "Early medical documentation of sleep paralysis symptoms",
+        "source": "Medical literature"
+      },
+      {
+        "date": "1876",
+        "event": "Silas Weir Mitchell publishes study",
+        "significance": "Formal medical recognition of sleep paralysis",
+        "source": "Transactions of the College of Physicians of Philadelphia"
+      },
+      {
+        "date": "20th century",
+        "event": "REM sleep discovery",
+        "significance": "Scientific explanation of mechanism behind sleep paralysis",
+        "source": "Sleep research"
+      },
+      {
+        "date": "1990s-present",
+        "event": "Modern sleep medicine",
+        "significance": "Full physiological understanding of sleep paralysis phenomenon",
+        "source": "Contemporary sleep research"
+      }
+    ],
+    "modern_era": "Sleep paralysis is now well-understood medically as a parasomnia occurring during transitions between sleep stages. Despite scientific explanation, cultural interpretations persist."
+  },
+
+  "experience": {
+    "typical_episode": {
+      "onset": "Usually occurs during sleep-wake transition, particularly when falling asleep or waking up",
+      "duration": "Typically lasts seconds to minutes, though may feel much longer",
+      "stages": [
+        "Awareness of waking but inability to move",
+        "Sensation of pressure on chest",
+        "Difficulty breathing",
+        "Sense of presence or entity in room",
+        "Possible visual/auditory hallucinations",
+        "Overwhelming fear",
+        "Gradual return of movement"
+      ]
+    },
+    "risk_factors": [
+      "Sleep deprivation",
+      "Irregular sleep schedule",
+      "Sleeping on back",
+      "Stress and anxiety",
+      "Certain medications",
+      "Sleep disorders (narcolepsy)"
+    ]
+  },
+
+  "scientific_explanation": {
+    "physiology": {
+      "mechanism": "During REM sleep, the body experiences atonia (muscle paralysis) to prevent acting out dreams. Sleep paralysis occurs when consciousness returns before atonia ends, leaving the person awake but unable to move.",
+      "brain_regions": "Involves interactions between brainstem (controlling atonia), amygdala (processing fear), and cortical areas (consciousness)"
+    },
+    "hypnagogic_hallucinations": "Vivid sensory experiences during sleep-wake transitions, often threatening in nature due to amygdala activation",
+    "status": "Fully explained medical phenomenon with well-understood physiological mechanisms"
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Newfoundland Old Hag tradition",
+        "European nightmare folklore",
+        "Asian sleep paralysis traditions",
+        "African American Boo Hag folklore"
+      ],
+      "protection_methods": [
+        "Sleeping with iron objects",
+        "Religious symbols and prayers",
+        "Specific sleeping positions",
+        "Protective charms and amulets"
+      ],
+      "beliefs": "Traditionally interpreted as attack by witch, demon, ghost, or malevolent spirit"
+    },
+    "popular_culture": {
+      "literature": [
+        "\"The Nightmare\" by Fuseli (painting, 1781)",
+        "Various horror literature featuring sleep paralysis",
+        "Contemporary psychological thrillers"
+      ],
+      "film_tv": [
+        "\"The Nightmare\" (documentary, 2015)",
+        "Horror films featuring sleep paralysis scenes",
+        "Medical dramas depicting the condition"
+      ],
+      "art": [
+        "Henry Fuseli's \"The Nightmare\" (1781) - iconic depiction",
+        "Contemporary sleep paralysis art and photography"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "sharpless-2016",
+      "type": "book",
+      "title": "Sleep Paralysis: Historical, Psychological, and Medical Perspectives",
+      "authors": ["Brian Sharpless", "Karl Doghramji"],
+      "publication": "Oxford University Press",
+      "date": "2015",
+      "isbn": "978-0199313587"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": ["David J. Hufford"],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982",
+      "isbn": "978-0812211139"
+    },
+    {
+      "id": "adler-2011",
+      "type": "article",
+      "title": "Sleep Paralysis: Night-mares, Nocebos, and the Mind-Body Connection",
+      "authors": ["Shelley R. Adler"],
+      "publication": "Rutgers University Press",
+      "date": "2011",
+      "isbn": "978-0813549354"
+    }
+  ]
+}
