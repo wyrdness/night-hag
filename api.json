@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/night-hag",
     "maintainers": [
       {
@@ -16,72 +16,126 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "night-hag",
     "name": "Night Hag",
-    "aliases": [],
+    "aliases": [
+      { "name": "Old Hag", "language": "English (Newfoundland)", "region": "Newfoundland and Labrador, Canada" },
+      { "name": "Mara", "language": "Old Norse / Scandinavian", "meaning": "Female demon that 'rides' sleepers" },
+      { "name": "Mære", "language": "Old English" },
+      { "name": "Kanashibari", "language": "Japanese", "meaning": "'Bound in metal'" },
+      { "name": "Gawi nulim", "language": "Korean", "meaning": "'Being pressed by something scary'" },
+      { "name": "Gui ya shen / 鬼壓身", "language": "Chinese", "meaning": "'Ghost pressing on body'" },
+      { "name": "Ja-thoom", "language": "Arabic", "meaning": "'What sits heavily'" },
+      { "name": "Karabasan", "language": "Turkish", "meaning": "'Dark presser'" },
+      { "name": "Bakhtak", "language": "Persian / Pakistani Urdu" },
+      { "name": "Ogun Oru", "language": "Yoruba", "region": "Nigeria", "meaning": "'Nocturnal warfare'" },
+      { "name": "Kaboos", "language": "Egyptian Arabic", "meaning": "'Compressor'" },
+      { "name": "Jinamizi", "language": "Swahili", "meaning": "'Strangled by jinn'" },
+      { "name": "Pisadeira", "language": "Portuguese", "region": "Brazil", "meaning": "'She who steps'" },
+      { "name": "Pesanta", "language": "Catalan" },
+      { "name": "Ammuttadori", "language": "Sardinian" },
+      { "name": "Dab tsog", "language": "Hmong" },
+      { "name": "Phǐǐ am", "language": "Thai/Lao" },
+      { "name": "Subirse el muerto", "language": "Spanish (Mexico)", "meaning": "'Dead person on you'" }
+    ],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Nocturnal Oppressor",
+    "subcategory": "Sleep paralysis entity",
     "tags": [
+      "sleep-paralysis",
+      "nocturnal",
+      "incubus",
+      "succubus",
+      "global",
       "folklore",
-      "mythology"
+      "REM-atonia"
     ],
     "status": "documented",
     "description": {
-      "summary": "The Night Hag is a supernatural entity reported across nearly every human culture, believed to cause the phenomenon of sleep paralysis.",
-      "full": "The Night Hag is a supernatural entity reported across nearly every human culture, believed to cause the phenomenon of sleep paralysis. Victims awaken but find themselves unable to move or speak, often experiencing a crushing pressure on the chest, difficulty breathing, and an overwhelming sense of dread or malevolent presence. Modern science identifies this as sleep paralysis—a well-documented medical condition occurring during transitions between sleep stages where REM atonia persists into waking consciousness. Despite the scientific explanation, the remarkable consistency of cultural interpretations worldwide makes the Night Hag a fascinating intersection of physiology, psychology, and folklore."
+      "summary": "A supernatural figure reported in folk traditions worldwide as the cause of sleep paralysis: a malevolent presence that sits, presses, or 'rides' on the chest of a paralyzed sleeper.",
+      "full": "The Night Hag is the cross-cultural figure invoked to explain sleep paralysis: an experience in which a person, awakening during the transition out of REM sleep, finds themselves unable to move while conscious, often with a sense of crushing chest pressure, difficulty breathing, and an overwhelming feeling of malevolent presence. Almost every documented human culture has a name for this experience and a corresponding entity — Old English mære, Norse mara, Newfoundland 'Old Hag', Japanese kanashibari, Chinese 'ghost pressing on body', Arabic ja-thoom, Turkish karabasan, Yoruba ogun oru, Brazilian pisadeira, and many others. Modern sleep medicine identifies the experience as an isolated episode of sleep paralysis, in which the muscle atonia of REM sleep persists into waking consciousness; hypnagogic and hypnopompic hallucinations occur in roughly a fifth of episodes and supply the perceptual content (figures on the chest, shadow people, abductors). Folklorist David J. Hufford's 1982 study of Newfoundland 'Old Hag' tradition, The Terror that Comes in the Night, was foundational in showing that the experience is biologically grounded but culturally elaborated."
     },
     "etymology": {
-      "origin": "|",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "English compound: 'night' + 'hag'; the Old English word for the experience itself was mære/mare, source of 'nightmare'",
+      "meaning": "An old or witch-like woman associated with night-time oppression of sleepers",
+      "first_use": "English 'night-hag' attested in early modern usage; 'mare' (the older term for the experience) attested in Old English"
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Nocturnal Oppressor",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Sleep paralysis figure",
+      "subtype": "Oppressing nocturnal entity",
+      "variant": "Cross-cultural"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "nightmare", "name": "Nightmare (mare folklore)", "relationship": "related", "description": "The Germanic mara/mære, the etymological root of 'nightmare' and a direct cognate of the night-hag" },
+      { "id": "incubus", "name": "Incubus", "relationship": "similar", "description": "Male sleep-paralysis demon of medieval European tradition" },
+      { "id": "succubus", "name": "Succubus", "relationship": "similar", "description": "Female sleep-paralysis demon of medieval European tradition" },
+      { "id": "alp", "name": "Alp", "relationship": "similar", "description": "German nightmare-causing entity associated with sleep paralysis" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Old/witch-like woman", "description": "Most often described as a hag-like female figure crouching on the sleeper's chest", "frequency": "common" },
+        { "feature": "Heavy weight on the chest", "description": "Sensed as a crushing pressure that prevents breathing or movement", "frequency": "always" },
+        { "feature": "Shadowy or indistinct form", "description": "Many cultures describe the entity as a black shadow rather than a fully visible figure", "frequency": "common" }
+      ],
+      "morphology": "Variable. Common manifestations include an old woman, a witch, a shadow figure, a ghost, an animal pressing on the chest, or a jinn-like being."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Induce paralysis", "description": "Renders the sleeper unable to move or speak while conscious", "frequency": "always", "evidence_level": "documented" },
+      { "ability": "Chest pressure", "description": "Produces a sensation of crushing weight on the chest, often interpreted as the entity sitting on the sleeper", "frequency": "always", "evidence_level": "documented" },
+      { "ability": "Hypnopompic hallucinations", "description": "Visual and auditory hallucinations of figures, shadows, voices, or footsteps accompanying the paralysis", "frequency": "common", "evidence_level": "documented" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["bedrooms", "places of sleep"],
+      "patterns": [
+        "Visits sleepers transitioning out of REM sleep",
+        "Pins the sleeper to the bed",
+        "Departs as full wakefulness returns"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "|",
-      "continents": [],
+      "description": "Reports of night-hag-type sleep paralysis encounters are documented in nearly every studied human culture.",
+      "continents": ["Africa", "Asia", "Europe", "North America", "South America", "Oceania"],
       "countries": [],
-      "regions": []
+      "regions": ["Global"]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Antiquity",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Cross-cultural folklore traditions; Old English and Old Norse references in early medieval Europe"
+      },
+      "seasonal_patterns": "None known; episodes correlate with sleep deprivation and disrupted sleep schedules rather than seasons."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "|",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Cross-cultural; the Night Hag/mare/old hag complex is one of the most widely documented folklore parallels worldwide.",
+      "earliest_accounts": "Old English mære and Old Norse mara are attested in early medieval texts; cognate concepts are documented in pre-modern Chinese, Arabic, and other traditions.",
+      "folklore_connections": "Closely tied to incubus/succubus traditions in medieval Christian Europe and to djinn-pressing traditions in Islamic cultures."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1755", "event": "Samuel Johnson defines 'nightmare' in A Dictionary of the English Language as a morbid oppression of the sleeper resembling pressure on the breast", "significance": "Codifies the link between the folkloric night-hag and the experience now known as sleep paralysis", "source": "Johnson, S. (1755), A Dictionary of the English Language" },
+      { "date": "1982", "event": "David J. Hufford publishes The Terror that Comes in the Night, an experiential-source study of the Newfoundland 'Old Hag' tradition", "significance": "Foundational academic work showing the cross-cultural night-hag complex is grounded in a real, biologically constrained experience (sleep paralysis)", "source": "Hufford, D. J. (1982), The Terror that Comes in the Night, University of Pennsylvania Press" }
+    ],
+    "modern_era": "Sleep paralysis is now a recognised parasomnia, classified by the International Classification of Sleep Disorders. The night-hag tradition is studied at the intersection of folklore, anthropology, and sleep medicine, including its role in shaping modern reports of alien abduction and shadow-people encounters."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,35 +146,121 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "night-hag-evidence-hufford",
+        "type": "ethnography",
+        "name": "Hufford, The Terror that Comes in the Night (1982)",
+        "description": "Experiential-source study of Newfoundland 'Old Hag' tradition documenting the cross-cultural pattern of sleep-paralysis experiences.",
+        "status": "verified",
+        "analysis": "Foundational academic source for the experiential-source hypothesis: that night-hag traditions worldwide encode a real, biologically constrained experience.",
+        "source": "Hufford, D. J. (1982)"
+      },
+      {
+        "id": "night-hag-evidence-icsd",
+        "type": "clinical classification",
+        "name": "Sleep paralysis (parasomnia)",
+        "description": "Sleep paralysis is classified as a REM-related parasomnia in the International Classification of Sleep Disorders.",
+        "status": "verified",
+        "analysis": "Documents the medical reality underlying the night-hag experience.",
+        "source": "International Classification of Sleep Disorders"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Spirit oppression",
+        "description": "Across many cultures the night-hag is interpreted as a witch, ghost, demon, or jinn that physically oppresses the sleeper.",
+        "proponents": ["Various folk traditions worldwide"],
+        "evidence_cited": ["Cross-cultural consistency of the experience", "First-person accounts of sensed presence"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Sleep paralysis (REM atonia intrusion)",
+        "description": "The experience corresponds to an isolated episode of sleep paralysis in which REM-sleep muscle atonia persists into waking consciousness, frequently accompanied by hypnopompic hallucinations.",
+        "proponents": ["Sleep medicine consensus", "David J. Hufford"],
+        "evidence_cited": ["Polysomnographic studies", "Cross-cultural prevalence", "ICSD classification"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Cultural elaboration of a biological experience",
+        "description": "Cultures supply the iconography (hag, witch, jinn, alien) for an underlying neurological event; the entity itself is not real, but the experience is.",
+        "proponents": ["Folklorists in the Hufford tradition"],
+        "evidence_cited": ["Variation of figures across cultures with constant phenomenology"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Newfoundland 'Old Hag' tradition",
+        "Norse and Germanic mara/mære tradition",
+        "Japanese kanashibari",
+        "Arabic and Persian jinn/bakhtak traditions",
+        "Brazilian pisadeira",
+        "Yoruba ogun oru"
+      ],
+      "stories": [
+        "Reports of 'witch riding' in the Southern United States and African-American communities",
+        "Accounts of jinn-pressing in North Africa and the Levant",
+        "Newfoundland Old Hag summoning rituals (recited backwards)"
+      ],
+      "beliefs": "Most folk traditions identify the Night Hag as a real, external being; many specify protective practices, sleeping positions, or charms to avoid her."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "The Terror that Comes in the Night — David J. Hufford (1982)"
+      ],
+      "film_tv": [
+        "The Nightmare (2015) — documentary by Rodney Ascher on sleep paralysis"
+      ],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Henry Fuseli's 1781 painting The Nightmare, an iconic visual depiction of the night-hag motif"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "David J. Hufford", "affiliation": "University of Pennsylvania / Penn State College of Medicine", "contribution": "Experiential-source study of Newfoundland 'Old Hag' tradition; foundational analysis of cross-cultural sleep paralysis folklore", "period": "1970s–present" }
+    ],
+    "organizations": [
+      { "name": "American Academy of Sleep Medicine", "url": "https://aasm.org", "focus": "Clinical research on parasomnias including sleep paralysis" }
+    ],
+    "ongoing_studies": "Active research continues across sleep medicine, anthropology, and folklore studies on the prevalence, phenomenology, and cultural framing of sleep paralysis."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-night-hag",
+      "type": "website",
+      "title": "Night hag",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Night_hag",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror that Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": ["David J. Hufford"],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982",
+      "isbn": "978-0812211450"
+    }
+  ]
 }

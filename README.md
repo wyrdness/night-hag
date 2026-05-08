@@ -1,309 +1,176 @@
 # Night Hag
 
-> *"I woke up, but I couldn't move. Something was sitting on my chest."*
+> A supernatural figure reported in folk traditions worldwide as the cause of sleep paralysis: a malevolent presence that sits, presses, or 'rides' on the chest of a paralyzed sleeper.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-explained-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `night-hag` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Sleep Paralysis Demon |
-| **Cultural Range** | Universal (all cultures) |
-| **Status** | Explained (sleep paralysis) |
+| **Subcategory** | Sleep paralysis entity |
+| **First recorded** | 1755 |
+| **Primary range** | Reports of night-hag-type sleep paralysis encounters are documented in nearly every studied human culture |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Night Hag is a supernatural entity reported across nearly every human culture, believed to cause the phenomenon of sleep paralysis. Victims awaken but find themselves unable to move or speak, often experiencing a crushing pressure on the chest, difficulty breathing, and an overwhelming sense of dread or malevolent presence.
-
-Modern science identifies this as sleep paralysis—a well-documented medical condition occurring during transitions between sleep stages where REM atonia persists into waking consciousness. Despite the scientific explanation, the remarkable consistency of cultural interpretations worldwide makes the Night Hag a fascinating intersection of physiology, psychology, and folklore.
+The Night Hag is the cross-cultural figure invoked to explain sleep paralysis: an experience in which a person, awakening during the transition out of REM sleep, finds themselves unable to move while conscious, often with a sense of crushing chest pressure, difficulty breathing, and an overwhelming feeling of malevolent presence. Almost every documented human culture has a name for this experience and a corresponding entity — Old English mære, Norse mara, Newfoundland 'Old Hag', Japanese kanashibari, Chinese 'ghost pressing on body', Arabic ja-thoom, Turkish karabasan, Yoruba ogun oru, Brazilian pisadeira, and many others. Modern sleep medicine identifies the experience as an isolated episode of sleep paralysis, in which the muscle atonia of REM sleep persists into waking consciousness; hypnagogic and hypnopompic hallucinations occur in roughly a fifth of episodes and supply the perceptual content (figures on the chest, shadow people, abductors). Folklorist David J. Hufford's 1982 study of Newfoundland 'Old Hag' tradition, The Terror that Comes in the Night, was foundational in showing that the experience is biologically grounded but culturally elaborated.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Old Hag | English (Newfoundland) / Newfoundland and Labrador, Canada |  |
+| Mara | Old Norse / Scandinavian | Female demon that 'rides' sleepers |
+| Mære | Old English |  |
+| Kanashibari | Japanese | 'Bound in metal' |
+| Gawi nulim | Korean | 'Being pressed by something scary' |
+| Gui ya shen / 鬼壓身 | Chinese | 'Ghost pressing on body' |
+| Ja-thoom | Arabic | 'What sits heavily' |
+| Karabasan | Turkish | 'Dark presser' |
+| Bakhtak | Persian / Pakistani Urdu |  |
+| Ogun Oru | Yoruba / Nigeria | 'Nocturnal warfare' |
+| Kaboos | Egyptian Arabic | 'Compressor' |
+| Jinamizi | Swahili | 'Strangled by jinn' |
+| Pisadeira | Portuguese / Brazil | 'She who steps' |
+| Pesanta | Catalan |  |
+| Ammuttadori | Sardinian |  |
+| Dab tsog | Hmong |  |
+| Phǐǐ am | Thai/Lao |  |
+| Subirse el muerto | Spanish (Mexico) | 'Dead person on you' |
 
-### Primary Name
-- **Night Hag** — Traditional image of an old witch or crone that visits sleepers at night
+## Etymology
 
-### Alternative Names
-
-| Name | Region/Culture | Meaning |
-|------|----------------|---------|
-| Old Hag | Newfoundland | Traditional name for sleep paralysis |
-| Mara | Germanic/Slavic | Nightmare spirit (root of "nightmare") |
-| Nightmare | English | Original supernatural entity meaning |
-| Kanashibari | Japan | "Bound by metal" |
-| Boo Hag | Gullah (South Carolina) | Witch that rides sleepers |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Sleep Paralysis Entity
-├── Subtype: Nocturnal Oppressor
-└── Variant: Cross-cultural
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Mara](/mara) | Cultural variant | Germanic/Slavic nightmare spirit |
-| [Alp](/alp) | Cultural variant | German male nightmare spirit |
-| [Mare](/mare) | Cultural variant | Generic European nightmare spirit |
-| [Succubus/Incubus](/succubus-incubus) | Related | Sexual demons associated with sleep paralysis |
+- **Origin**: English compound: 'night' + 'hag'; the Old English word for the experience itself was mære/mare, source of 'nightmare'
+- **Meaning**: An old or witch-like woman associated with night-time oppression of sleepers
+- **First use**: English 'night-hag' attested in early modern usage; 'mare' (the older term for the experience) attested in Old English
 
 ---
+## Related Phenomena
 
-## The Experience
-
-### Typical Episode
-
-**Onset**: Usually occurs during sleep-wake transition (falling asleep or waking up)
-
-**Duration**: Typically seconds to minutes (though feels much longer)
-
-**Stages of Experience**:
-1. Awareness of waking but complete inability to move
-2. Sensation of heavy pressure on chest
-3. Difficulty breathing or feeling of suffocation
-4. Overwhelming sense of malevolent presence in room
-5. Possible visual/auditory hallucinations (shadowy figure, footsteps, voices)
-6. Intense terror and dread
-7. Gradual return of movement and full awakening
-
-### Common Symptoms
-
-| Symptom | Description | Frequency |
-|---------|-------------|-----------|
-| Paralysis | Complete inability to move body | Always |
-| Chest pressure | Heavy weight sensation on chest | Always |
-| Breathing difficulty | Sensation of suffocation | Always |
-| Speech inability | Cannot speak or call for help | Always |
-| Presence sensation | Sense of malevolent entity nearby | Very common |
-| Visual hallucinations | Shadow figures, old hag, demons | Common |
-| Terror | Overwhelming fear and dread | Very common |
+- [Nightmare (mare folklore)](../nightmare/) — _related_: The Germanic mara/mære, the etymological root of 'nightmare' and a direct cognate of the night-hag
+- [Incubus](../incubus/) — _similar_: Male sleep-paralysis demon of medieval European tradition
+- [Succubus](../succubus/) — _similar_: Female sleep-paralysis demon of medieval European tradition
+- [Alp](../alp/) — _similar_: German nightmare-causing entity associated with sleep paralysis
 
 ---
+## Physical Description
 
-## Cultural Variations
+- **Morphology**: Variable. Common manifestations include an old woman, a witch, a shadow figure, a ghost, an animal pressing on the chest, or a jinn-like being.
 
-The Night Hag appears in nearly every culture worldwide, with remarkably consistent descriptions despite geographic and cultural isolation:
+### Features
 
-### European Traditions
-- **Old Hag** (Newfoundland): Traditional term for sleep paralysis experience
-- **Mara** (Germanic/Slavic): Female nightmare spirit, root of "nightmare"
-- **Alp** (Germany/Austria): Male nightmare demon with magic hat
-- **Mare** (General European): Generic nightmare spirit that "rides" sleepers
+| Feature | Description | Frequency |
+|---|---|---|
+| Old/witch-like woman | Most often described as a hag-like female figure crouching on the sleeper's chest | common |
+| Heavy weight on the chest | Sensed as a crushing pressure that prevents breathing or movement | always |
+| Shadowy or indistinct form | Many cultures describe the entity as a black shadow rather than a fully visible figure | common |
 
-### Asian Traditions
-- **Kanashibari** (Japan): "Bound by metal"
-- **Phi Am** (Thailand): Evil spirit that presses down on sleepers
-- **Ogun Oru** (Yoruba): Night spirit attacks
+## Reported Abilities
 
-### African/Diaspora Traditions
-- **Boo Hag** (Gullah culture): Witch that sheds skin and rides victims
-- **Kokma** (St. Lucia): Night spirit that attacks sleepers
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Induce paralysis | Renders the sleeper unable to move or speak while conscious | always | documented |
+| Chest pressure | Produces a sensation of crushing weight on the chest, often interpreted as the entity sitting on the sleeper | always | documented |
+| Hypnopompic hallucinations | Visual and auditory hallucinations of figures, shadows, voices, or footsteps accompanying the paralysis | common | documented |
 
-### Americas
-- **Old Hag** (Newfoundland): Same entity, same experience
-- **Pesanta** (Catalan): Beast that sits on chest
+## Behavior
 
----
-
-## Scientific Explanation
-
-### The Physiology of Sleep Paralysis
-
-**What Actually Happens**:
-
-During REM (Rapid Eye Movement) sleep, the body experiences **atonia**—temporary muscle paralysis that prevents us from acting out our dreams. Sleep paralysis occurs when consciousness returns before this atonia ends, leaving the person mentally awake but physically unable to move.
-
-**Brain Mechanisms**:
-- **Brainstem**: Controls REM atonia
-- **Amygdala**: Processes fear, becomes hyperactive during episode
-- **Cortical areas**: Conscious awareness returns while body remains paralyzed
-
-### Hypnagogic Hallucinations
-
-The vivid sensory experiences during sleep paralysis are called **hypnagogic** (when falling asleep) or **hypnopompic** (when waking) hallucinations. These often feature threatening entities because:
-- The amygdala (fear center) is highly active
-- The brain tries to explain the paralysis and creates a threat narrative
-- Cultural knowledge influences the specific form hallucinations take
-
-### Risk Factors
-
-- Sleep deprivation
-- Irregular sleep schedule
-- Sleeping on back (supine position)
-- Stress and anxiety
-- Certain medications
-- Sleep disorders (especially narcolepsy)
-- Disrupted circadian rhythms
-
-### Medical Status
-
-**Status**: Fully explained parasomnia
-**Prevalence**: ~8% experience at least once; ~5% experience regularly
-**Danger**: Harmless (though terrifying)
-**Treatment**: Sleep hygiene, stress reduction, sleeping position adjustment
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: bedrooms, places of sleep
 
 ---
+## Distribution
 
+Reports of night-hag-type sleep paralysis encounters are documented in nearly every studied human culture.
+
+
+---
 ## Historical Timeline
 
-### Ancient Times
-Indigenous oral traditions and ancient civilizations across the world documented experiences matching sleep paralysis, attributing them to supernatural entities.
+| Date | Event | Significance |
+|---|---|---|
+| 1755 | Samuel Johnson defines 'nightmare' in A Dictionary of the English Language as a morbid oppression of the sleeper resembling pressure on the breast | Codifies the link between the folkloric night-hag and the experience now known as sleep paralysis |
+| 1982 | David J. Hufford publishes The Terror that Comes in the Night, an experiential-source study of the Newfoundland 'Old Hag' tradition | Foundational academic work showing the cross-cultural night-hag complex is grounded in a real, biologically constrained experience (sleep paralysis) |
 
-### 1664
-Dutch physician Isbrand van Diemerbroeck provides early medical documentation of sleep paralysis symptoms.
+## Evidence
 
-### 1876
-Silas Weir Mitchell publishes formal medical study recognizing sleep paralysis as distinct phenomenon.
+### Documentary
 
-### 20th Century
-Discovery of REM sleep provides scientific framework for understanding sleep paralysis mechanism.
-
-### 1990s-Present
-Modern sleep medicine achieves full physiological understanding of sleep paralysis, though cultural interpretations persist worldwide.
-
----
-
-## Why the Universal Similarity?
-
-Despite geographic and cultural isolation, nearly every culture developed remarkably similar entities:
-
-1. **Universal Physiology**: All humans experience the same sleep paralysis mechanism
-2. **Consistent Symptoms**: Paralysis + chest pressure + hallucinations = consistent experience
-3. **Cultural Interpretation**: Each culture explains the universal experience through local supernatural framework
-4. **Pattern Recognition**: Human brains create narrative explanations for unusual experiences
-
-This represents a fascinating case where **biology creates culture**—the same physiological phenomenon generates similar folklore worldwide.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Hufford, The Terror that Comes in the Night (1982) |  | Experiential-source study of Newfoundland 'Old Hag' tradition documenting the cross-cultural pattern of sleep-paralysis experiences. | verified |
+| Sleep paralysis (parasomnia) |  | Sleep paralysis is classified as a REM-related parasomnia in the International Classification of Sleep Disorders. | verified |
 
 ---
+## Theories & Explanations
 
-## Traditional Protection Methods
+### Paranormal / Cryptozoological
 
-Across cultures, similar protective measures emerged:
+**Spirit oppression** _(Various folk traditions worldwide)_
 
-| Method | Description | Cultural Origin |
-|--------|-------------|-----------------|
-| Iron objects | Place iron under pillow | European (widespread) |
-| Religious symbols | Crosses, prayers, holy water | Christian cultures |
-| Sleep position | Avoid sleeping on back | Multiple cultures |
-| Protective charms | Amulets, talismans | Worldwide |
-| Bedroom barriers | Plug keyholes, seal openings | European |
+Across many cultures the night-hag is interpreted as a witch, ghost, demon, or jinn that physically oppresses the sleeper.
 
-**Modern Effective Methods**:
-- Improve sleep hygiene
-- Maintain regular sleep schedule
-- Reduce stress
-- Sleep on side rather than back
-- Treat underlying sleep disorders
+### Scientific
 
----
+**Sleep paralysis (REM atonia intrusion)** _(Sleep medicine consensus, David J. Hufford)_
 
-## Notable Artistic Representation
+The experience corresponds to an isolated episode of sleep paralysis in which REM-sleep muscle atonia persists into waking consciousness, frequently accompanied by hypnopompic hallucinations.
 
-### "The Nightmare" by Henry Fuseli (1781)
+### Skeptical
 
-The most iconic visual representation of the Night Hag concept. The painting depicts an incubus (demon) sitting on a sleeping woman's chest while a horse's head emerges from darkness. This image has defined the visual iconography of nightmares in Western culture.
+**Cultural elaboration of a biological experience** _(Folklorists in the Hufford tradition)_
 
----
+Cultures supply the iconography (hag, witch, jinn, alien) for an underlying neurological event; the entity itself is not real, but the experience is.
 
-## Cultural Significance
 
-### Folklore Studies
+## Popular Culture
 
-The Night Hag phenomenon represents:
-- Intersection of universal human physiology and cultural interpretation
-- How similar biological experiences generate similar folklore worldwide
-- The evolution from supernatural to scientific explanation
-- Preservation of folk beliefs despite medical understanding
+**Literature**: The Terror that Comes in the Night — David J. Hufford (1982)
 
-### Modern Understanding
+**Film / TV**: The Nightmare (2015) — documentary by Rodney Ascher on sleep paralysis
 
-> ⚠️ **Important Note**: While sleep paralysis is now scientifically explained, cultural traditions surrounding the Night Hag remain important parts of various heritage traditions and should be treated respectfully.
+**Other**: Henry Fuseli's 1781 painting The Nightmare, an iconic visual depiction of the night-hag motif
 
 ---
+## Research
 
-## Research & Medical Resources
+### Researchers
 
-### Sleep Medicine Organizations
-- American Academy of Sleep Medicine
-- Sleep Research Society
-- National Sleep Foundation
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| David J. Hufford | University of Pennsylvania / Penn State College of Medicine | Experiential-source study of Newfoundland 'Old Hag' tradition; foundational analysis of cross-cultural sleep paralysis folklore | 1970s–present |
 
-### Key Research Areas
-- REM sleep mechanisms
-- Hypnagogic hallucination neuroscience
-- Cross-cultural sleep paralysis experiences
-- Treatment and prevention strategies
+### Organizations
 
----
+- [American Academy of Sleep Medicine](https://aasm.org) — Clinical research on parasomnias including sleep paralysis
 
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const nightHag = await wyrd.getPhenomenon('night-hag');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/night-hag/main/api.json
-```
+Active research continues across sleep medicine, anthropology, and folklore studies on the prevalence, phenomenology, and cultural framing of sleep paralysis.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Sharpless, B. & Doghramji, K. (2015). *Sleep Paralysis: Historical, Psychological, and Medical Perspectives*. Oxford University Press.
-- Hufford, D.J. (1982). *The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions*. University of Pennsylvania Press.
-- Adler, S.R. (2011). *Sleep Paralysis: Night-mares, Nocebos, and the Mind-Body Connection*. Rutgers University Press.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Experience](../../issues/new) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
